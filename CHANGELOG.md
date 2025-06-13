@@ -1,3 +1,10 @@
+# 8.5
+## ADDED
+-
+
+## CHANGED
+- AI Attributes should now persist through locality transfers
+
 # 8.4.0
 ## ADDED
 <!--
